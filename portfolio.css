@@ -27,6 +27,7 @@ nav {
     border: 0px;
     font-size: 20px;
     font-weight: 700;
+    margin-top: 20px;
 }
 .text-primary {
     color: coral;
@@ -68,8 +69,7 @@ nav a {
 }
 
 .banner-description {
-    margin-top: 5px;
-    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .banner {
