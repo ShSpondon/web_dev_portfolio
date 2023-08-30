@@ -9,7 +9,7 @@ nav {
     display:flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 200px;
+    margin: 0 150px;
     
 }
 
@@ -63,6 +63,7 @@ nav a {
     margin-bottom: 0px;
 }
 .banner-title {
+    color: coral;
     font-size: 70px;
     font-weight: 800;
     margin-top: 5px;
